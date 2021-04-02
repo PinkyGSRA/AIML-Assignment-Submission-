@@ -1,0 +1,12 @@
+Expalin Machine Learning With your own Example?
+   
+   Machine learning is an art and science of programming computers so they can learn from 
+Data.Machine learning is the study of computer algorithms that improve automatically 
+through experience and by the use of data. It is seen as a part of artificial intelligence.
+       
+            Traffic Predictions: We all have been using GPS navigation services. While we do 
+that, our current locations and velocities are being saved at a central server for managing 
+traffic. This data is then used to build a map of current traffic. While this helps in 
+preventing the traffic and does congestion analysis, the underlying problem is that there are 
+less number of cars that are equipped with GPS. Machine learning in such scenarios helps to 
+estimate the regions where congestion can be found on the basis of daily experiences.
